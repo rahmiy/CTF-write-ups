@@ -1,4 +1,4 @@
-# vulnhub-write-ups
+# VulnHub - Write ups
 
 A list of write ups for various labs I've done.
 
